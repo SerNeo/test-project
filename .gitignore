@@ -1,0 +1,5 @@
+#folder with setting of PHPStorm
+.idea/
+
+#all txt files
+docs/*.txt
